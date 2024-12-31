@@ -8,7 +8,7 @@ Welcome to the **Smart Tourism Guide App**, a project developed as part of the U
 Unleash your wanderlust with two exciting options:
 - **Nearby Me**: Discover attractions, restaurants, and points of interest near your current location.
 - **Surprise Me**: Let the app pick a random location or attraction to ignite your curiosity and adventure spirit.
-
+![Smart Tourism Guide App](https://github.com/Sumit-9826/Smart-tourism/blob/c97ec07342b27f735080c54bf7fe7487ca95e165/Screenshot_20241231-212459.png)
 ### Home Screen
 The home screen provides an intuitive layout that helps you explore different regions of the world. Available regions include:
 - Africa
